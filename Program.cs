@@ -1,3 +1,6 @@
 ﻿using ConsoleChess.Models;
 
-var game = new Game();
+var board = new Board();
+var game = new Game(board);
+game.Start();
+

@@ -1,12 +1,24 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using ConsoleChess.Screens;
+using ConsoleChess.UserInterfaces;
 
 namespace ConsoleChess.Models
 {
     public class Game
     {
-        public Board Board { get; set; } = new Board();
+        private readonly Board _board;
+        private readonly StartMenuUserInterface _startMenuUserInterface;
+
+        public Game(Board board)
+        {
+            _board = board;
+
+            var startMenuScreen = new StartMenuScreen();
+            _startMenuUserInterface = new StartMenuUserInterface(startMenuScreen);
+        }
+
+        public void Start()
+        {
+            var startOption = _startMenuUserInterface.GetUserResponse();
+        }
     }
 }

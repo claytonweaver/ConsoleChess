@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5E/kzUsXIJXaJ5g7OH7fSgQmcYsa1YaxGs+k32qb5RU+c95LDUty7k8Ijcaw0h0U4xYoJjSV6B0TZUZMWQYqvA==",
+  "dgSpecHash": "YOZzOIVvtRQAPljGV3zI741+WCNAJ9IKYgXRZwaCHkE9AMLF080gFQ5Xm4yHXgUJzr6KXODfhA3pG6AvG+Ha7Q==",
   "success": true,
-  "projectFilePath": "c:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj",
+  "projectFilePath": "C:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

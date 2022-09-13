@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj": {}
+    "C:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj": {}
   },
   "projects": {
-    "c:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj": {
+    "C:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj",
+        "projectUniqueName": "C:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj",
         "projectName": "ConsoleChess",
-        "projectPath": "c:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj",
+        "projectPath": "C:\\git\\Dotnet\\ConsoleChess\\ConsoleChess.csproj",
         "packagesPath": "C:\\Users\\Clay\\.nuget\\packages\\",
-        "outputPath": "c:\\git\\Dotnet\\ConsoleChess\\obj\\",
+        "outputPath": "C:\\git\\Dotnet\\ConsoleChess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Clay\\AppData\\Roaming\\NuGet\\NuGet.Config"

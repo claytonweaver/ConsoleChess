@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ConsoleChess
+namespace ConsoleChess.Screens
 {
-    public class UserInterface
+    public interface IScreen
     {
-        
+        void Print();
     }
 }
